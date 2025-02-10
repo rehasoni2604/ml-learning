@@ -1,0 +1,13 @@
+mpg: Car's fuel efficiency measured in miles per gallon.
+cylinders: Number of cylinders in the car's engine.
+displacement: Engine displacement in cubic inches.
+horsepower: Engine power output measured in horsepower.
+weight: Car's weight in pounds.
+acceleration: Time taken for the car to reach a certain speed from standstill.
+model_year: Year of manufacturing or model release.
+origin: Country of origin or manufacture of the car.
+car_name: Unique identifier for each car instance.
+
+
+
+
